@@ -1,0 +1,15 @@
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/bin/Debug/net6.0/Example005_ConditionsFLs
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/bin/Debug/net6.0/Example005_ConditionsFLs.deps.json
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/bin/Debug/net6.0/Example005_ConditionsFLs.runtimeconfig.json
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/bin/Debug/net6.0/Example005_ConditionsFLs.dll
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/bin/Debug/net6.0/Example005_ConditionsFLs.pdb
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.csproj.AssemblyReference.cache
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.AssemblyInfoInputs.cache
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.AssemblyInfo.cs
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.csproj.CoreCompileInputs.cache
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.dll
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/refint/Example005_ConditionsFLs.dll
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.pdb
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/Example005_ConditionsFLs.genruntimeconfig.cache
+/Users/rustemzhexembin/Desktop/examples/Example005_ConditionsFLs/obj/Debug/net6.0/ref/Example005_ConditionsFLs.dll
